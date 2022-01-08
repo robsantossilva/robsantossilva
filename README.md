@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:robsantossilva@gmail.com" height="25"/>
 </a>
 
-<a href="https://github.com/robsantossilva">
+<a href="https://github.com/robsantossilva?tab=followers">
   <img src="https://img.shields.io/github/followers/robsantossilva?style=social&style=for-the-badge" height="25"/>
 </a>
 
