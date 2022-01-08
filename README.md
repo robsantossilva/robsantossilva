@@ -60,5 +60,5 @@
 
 <p align = "left">
     <img width="49.7%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robsantossilva&hide=css,html,vba,freemarker&theme=dark&langs_count=100&layout=compact">
-    <img width="49.7%" src = "https://github-readme-stats.vercel.app/api?username=robsantossilva&show_icons=true&theme=dark&line_height=30&langs_count=100">
+    <img width="49.7%" src = "https://github-readme-stats.vercel.app/api?username=robsantossilva&show_icons=true&theme=dark&line_height=43.7&langs_count=100">
 </p>
