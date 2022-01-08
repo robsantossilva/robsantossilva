@@ -1,7 +1,7 @@
 ## 📑 Contact Information
 <p align="center">
 
-<a href="https://www.linkedin.com/in/robson-dos-santos-silva-59025230/">
+<a href="https://www.linkedin.com/in/robson-dos-santos-silva-59025230/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-dos-santos-silva-59025230/" height="25"/>
 </a>
 
